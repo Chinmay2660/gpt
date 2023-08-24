@@ -36,7 +36,7 @@
 
 @media screen and (max-width: 992px) {
   .gpt3__blog-container {
-    flex-direction: column-reverse;
+    flex-direction: column;
   }
 
   .gpt3__blog-container_groupA {
@@ -44,7 +44,7 @@
   }
 
   .gpt3__blog-container_groupA .gpt3__blog-container_article {
-    width: 48%;
+    width: 100%;
   }
 
   .gpt3__blog-container_groupA .gpt3__blog-container_article-image {
